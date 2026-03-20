@@ -1,8 +1,0 @@
-C:\Users\ADMIN\Downloads\phongz\hoinghi1\hoinghi1\obj\Debug\net8.0\hoinghi1.csproj.AssemblyReference.cache
-C:\Users\ADMIN\Downloads\phongz\hoinghi1\hoinghi1\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\ADMIN\Downloads\phongz\hoinghi1\hoinghi1\obj\Debug\net8.0\hoinghi1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ADMIN\Downloads\phongz\hoinghi1\hoinghi1\obj\Debug\net8.0\hoinghi1.AssemblyInfoInputs.cache
-C:\Users\ADMIN\Downloads\phongz\hoinghi1\hoinghi1\obj\Debug\net8.0\hoinghi1.AssemblyInfo.cs
-C:\Users\ADMIN\Downloads\phongz\hoinghi1\hoinghi1\obj\Debug\net8.0\hoinghi1.csproj.CoreCompileInputs.cache
-C:\Users\ADMIN\Downloads\phongz\hoinghi1\hoinghi1\obj\Debug\net8.0\hoinghi1.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\ADMIN\Downloads\phongz\hoinghi1\hoinghi1\obj\Debug\net8.0\hoinghi1.MvcApplicationPartsAssemblyInfo.cache
